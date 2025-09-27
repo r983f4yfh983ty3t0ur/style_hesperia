@@ -1,0 +1,12 @@
+# Nada de cache del foro (por si versionas más carpetas)
+cache/
+files/
+store/
+vendor/
+# Archivos temporales comunes
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+# Si por accidente subes el root del foro:
+config.php
